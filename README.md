@@ -1,7 +1,5 @@
 SR Mongoose Documentation
 
-Link: https://mongoosejs.com/docs/guide.html
-
 Introduction to Mongoose
 
 Mongoose is an Object Data Modeling (ODM) library for Node.js that provides a structured way to interact with MongoDB. It acts as a layer between your application and MongoDB, making database operations easier and more organized.
